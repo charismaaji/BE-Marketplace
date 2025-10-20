@@ -39,15 +39,17 @@ BE-Marketplace/
 ## Installation
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Configure environment variables (already set in `.env`):
+
 ```
 PORT=3000
-JWT_ACCESS_SECRET=marketplace-access-secret-key-2024
-JWT_REFRESH_SECRET=marketplace-refresh-secret-key-2024
+JWT_ACCESS_SECRET=marketplace-access-secret-key-2025
+JWT_REFRESH_SECRET=marketplace-refresh-secret-key-2025
 JWT_ACCESS_EXPIRY=15m
 JWT_REFRESH_EXPIRY=7d
 ```
@@ -55,11 +57,13 @@ JWT_REFRESH_EXPIRY=7d
 ## Running the Server
 
 **Development mode** (with auto-reload):
+
 ```bash
 npm run dev
 ```
 
 **Production mode**:
+
 ```bash
 npm run build
 npm start
@@ -72,83 +76,96 @@ The server will start on `http://localhost:3000`
 ### Authentication
 
 #### 1. Login
+
 **POST** `/api/auth/login`
 
 Request body:
+
 ```json
 {
-  "username": "emilys",
-  "password": "emilyspass",
-  "ipAddress": "192.168.1.1",
-  "deviceId": "device-123-abc"
+	"username": "emilys",
+	"password": "emilyspass",
+	"ipAddress": "192.168.1.1",
+	"deviceId": "device-123-abc"
 }
 ```
 
 Response:
+
 ```json
 {
-  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
-  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
-  "user": {
-    "id": 1,
-    "username": "emilys",
-    "email": "emily.johnson@x.dummyjson.com",
-    "firstName": "Emily",
-    "lastName": "Johnson"
-  }
+	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+	"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+	"user": {
+		"id": 1,
+		"username": "emilys",
+		"email": "emily.johnson@x.dummyjson.com",
+		"firstName": "Emily",
+		"lastName": "Johnson"
+	}
 }
 ```
 
 #### 2. Refresh Token
+
 **POST** `/api/auth/refresh`
 
 Request body:
+
 ```json
 {
-  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
-  "ipAddress": "192.168.1.1",
-  "deviceId": "device-123-abc"
+	"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+	"ipAddress": "192.168.1.1",
+	"deviceId": "device-123-abc"
 }
 ```
 
 Response:
+
 ```json
 {
-  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+	"accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
 }
 ```
 
 **Note:** IP address and device ID must match the ones used during login for security.
 
 #### 3. Logout
+
 **POST** `/api/auth/logout`
 
 Request body:
+
 ```json
 {
-  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+	"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
 }
 ```
 
 Response:
+
 ```json
 {
-  "message": "Logged out successfully"
+	"message": "Logged out successfully"
 }
 ```
 
 #### 4. Get User Profile
+
 **GET** `/api/auth/profile/:id`
 
 Headers:
+
 ```
 Authorization: Bearer <access-token>
 ```
 
 URL Parameters:
+
 - `id` - User ID (must match the authenticated user's ID)
 
 Response:
+
 ```json
 {
   "success": true,
@@ -192,20 +209,24 @@ Response:
 ### Products
 
 #### 5. Get Product List
+
 **GET** `/api/products`
 
 Headers:
+
 ```
 Authorization: Bearer <access-token>
 ```
 
 Query Parameters (optional):
+
 - `page` - Page number (default: 1)
 - `limit` - Items per page, max 100 (default: 10)
 - `category` - Filter by category (e.g., "beauty", "furniture")
 - `search` - Search in title or description
 
 Response:
+
 ```json
 {
   "success": true,
@@ -254,37 +275,43 @@ Response:
 ```
 
 #### 6. Get Product by ID
+
 **GET** `/api/products/:id`
 
 Headers:
+
 ```
 Authorization: Bearer <access-token>
 ```
 
 URL Parameters:
+
 - `id` - Product ID
 
 Response:
+
 ```json
 {
-  "success": true,
-  "data": {
-    "id": 1,
-    "title": "Essence Mascara Lash Princess",
-    "description": "The Essence Mascara Lash Princess is a popular mascara...",
-    "category": "beauty",
-    "price": 9.99,
-    // ... complete product details
-  }
+	"success": true,
+	"data": {
+		"id": 1,
+		"title": "Essence Mascara Lash Princess",
+		"description": "The Essence Mascara Lash Princess is a popular mascara...",
+		"category": "beauty",
+		"price": 9.99
+		// ... complete product details
+	}
 }
 ```
 
 ### Cart
 
 #### 7. Get User Cart
+
 **GET** `/api/cart`
 
 Headers:
+
 ```
 Authorization: Bearer <access-token>
 ```
@@ -292,51 +319,56 @@ Authorization: Bearer <access-token>
 Description: Get the authenticated user's cart. Creates an empty cart if none exists.
 
 Response:
+
 ```json
 {
-  "success": true,
-  "data": {
-    "id": 1,
-    "products": [
-      {
-        "id": 1,
-        "title": "Essence Mascara Lash Princess",
-        "price": 9.99,
-        "quantity": 2,
-        "total": 19.98,
-        "discountPercentage": 10.48,
-        "discountedTotal": 17.89,
-        "thumbnail": "https://..."
-      }
-    ],
-    "total": 19.98,
-    "discountedTotal": 17.89,
-    "userId": 1,
-    "totalProducts": 1,
-    "totalQuantity": 2
-  }
+	"success": true,
+	"data": {
+		"id": 1,
+		"products": [
+			{
+				"id": 1,
+				"title": "Essence Mascara Lash Princess",
+				"price": 9.99,
+				"quantity": 2,
+				"total": 19.98,
+				"discountPercentage": 10.48,
+				"discountedTotal": 17.89,
+				"thumbnail": "https://..."
+			}
+		],
+		"total": 19.98,
+		"discountedTotal": 17.89,
+		"userId": 1,
+		"totalProducts": 1,
+		"totalQuantity": 2
+	}
 }
 ```
 
 #### 8. Add Product to Cart
+
 **POST** `/api/cart`
 
 Headers:
+
 ```
 Authorization: Bearer <access-token>
 ```
 
 Request Body:
+
 ```json
 {
-  "productId": 1,
-  "quantity": 2
+	"productId": 1,
+	"quantity": 2
 }
 ```
 
 Description: Add a product to cart. If product already exists, increases the quantity. Automatically calculates totals and applies discounts.
 
 Response:
+
 ```json
 {
   "success": true,
@@ -354,27 +386,32 @@ Response:
 ```
 
 #### 9. Update Cart Product Quantity
+
 **PATCH** `/api/cart`
 
 Headers:
+
 ```
 Authorization: Bearer <access-token>
 ```
 
 Request Body:
+
 ```json
 {
-  "productId": 1,
-  "quantity": 1
+	"productId": 1,
+	"quantity": 1
 }
 ```
 
 Description: Update product quantity in cart:
+
 - **Positive quantity**: Add to existing quantity (e.g., `+1` adds 1 more)
 - **Negative quantity**: Reduce from existing quantity (e.g., `-1` removes 1)
 - **Zero quantity**: Remove product from cart completely
 
 Response:
+
 ```json
 {
   "success": true,
@@ -391,7 +428,8 @@ Response:
 }
 ```
 
-**Note:** 
+**Note:**
+
 - Cart data is persisted to `database/carts.json`
 - All calculations (totals, discounts) are automatic
 - If quantity becomes 0 or negative, the product is removed from cart
@@ -399,98 +437,107 @@ Response:
 ### Orders
 
 #### 10. Create Order
+
 **POST** `/api/orders`
 
 Headers:
+
 ```
 Authorization: Bearer <access-token>
 ```
 
 Request Body:
+
 ```json
 {
-  "products": [
-    {
-      "productId": 1,
-      "quantity": 2
-    },
-    {
-      "productId": 5,
-      "quantity": 1
-    }
-  ],
-  "paymentMethod": {
-    "paymentType": "card",
-    "provider": "mastercard"
-  }
+	"products": [
+		{
+			"productId": 1,
+			"quantity": 2
+		},
+		{
+			"productId": 5,
+			"quantity": 1
+		}
+	],
+	"paymentMethod": {
+		"paymentType": "card",
+		"provider": "mastercard"
+	}
 }
 ```
 
 **Payment Method Options:**
+
 - **paymentType**: `"card"` or `"virtual account"`
 - **provider**: Payment provider (e.g., `"bca"`, `"mastercard"`, `"mandiri"`, `"visa"`, etc.)
 
 Description: Create a new order with products and payment method. Price is calculated automatically based on product prices from the products database multiplied by quantity. All new orders are automatically created with status "not paid" (waiting for payment).
 
 Response:
+
 ```json
 {
-  "success": true,
-  "message": "Order created successfully",
-  "data": {
-    "id": 1,
-    "userId": 1,
-    "products": [
-      {
-        "id": 1,
-        "title": "Essence Mascara Lash Princess",
-        "price": 9.99,
-        "quantity": 2,
-        "total": 19.98,
-        "discountPercentage": 10.48,
-        "discountedTotal": 17.89,
-        "thumbnail": "https://..."
-      },
-      {
-        "id": 5,
-        "title": "Another Product",
-        "price": 29.99,
-        "quantity": 1,
-        "total": 29.99,
-        "discountPercentage": 5.0,
-        "discountedTotal": 28.49,
-        "thumbnail": "https://..."
-      }
-    ],
-    "total": 49.97,
-    "discountedTotal": 46.38,
-    "totalProducts": 2,
-    "totalQuantity": 3,
-    "status": "not paid",
-    "paymentMethod": {
-      "paymentType": "card",
-      "provider": "mastercard"
-    },
-    "createdAt": "2025-10-20T11:44:00.000Z",
-    "updatedAt": "2025-10-20T11:44:00.000Z"
-  }
+	"success": true,
+	"message": "Order created successfully",
+	"data": {
+		"id": 1,
+		"userId": 1,
+		"products": [
+			{
+				"id": 1,
+				"title": "Essence Mascara Lash Princess",
+				"price": 9.99,
+				"quantity": 2,
+				"total": 19.98,
+				"discountPercentage": 10.48,
+				"discountedTotal": 17.89,
+				"thumbnail": "https://..."
+			},
+			{
+				"id": 5,
+				"title": "Another Product",
+				"price": 29.99,
+				"quantity": 1,
+				"total": 29.99,
+				"discountPercentage": 5.0,
+				"discountedTotal": 28.49,
+				"thumbnail": "https://..."
+			}
+		],
+		"total": 49.97,
+		"discountedTotal": 46.38,
+		"totalProducts": 2,
+		"totalQuantity": 3,
+		"status": "not paid",
+		"paymentMethod": {
+			"paymentType": "card",
+			"provider": "mastercard"
+		},
+		"createdAt": "2025-10-20T11:44:00.000Z",
+		"updatedAt": "2025-10-20T11:44:00.000Z"
+	}
 }
 ```
 
 #### 11. Get User Orders
+
 **GET** `/api/orders`
 
 Headers:
+
 ```
 Authorization: Bearer <access-token>
 ```
 
 Query Parameters (optional):
+
 - `page` - Page number (default: 1)
 - `limit` - Items per page, max 100 (default: 10)
 - `status` - Filter by status: "paid" or "not paid"
 
 Response:
+
 ```json
 {
   "success": true,
@@ -522,6 +569,7 @@ Response:
 ```
 
 **Note:**
+
 - Order data is persisted to `database/orders.json`
 - Users can only see their own orders (filtered by userId from token)
 - Orders are sorted by creation date (newest first)
@@ -532,6 +580,7 @@ Response:
 You can test the API using curl, Postman, or any HTTP client.
 
 Example with curl:
+
 ```bash
 # Login
 curl -X POST http://localhost:3000/api/auth/login \
@@ -648,6 +697,7 @@ curl -X GET "http://localhost:3000/api/orders?page=1&limit=10&status=paid" \
 ## Available Users
 
 The system reads users from `database/users.json`. Example user:
+
 - **Username:** `emilys`
 - **Password:** `emilyspass`
 
