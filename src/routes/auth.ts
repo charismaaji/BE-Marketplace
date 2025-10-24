@@ -6,7 +6,12 @@ import {
 	verifyRefreshToken,
 } from "../utils/jwt";
 import { tokenStore } from "../utils/tokenStore";
-import { LoginRequest, RefreshTokenRequest, AuthResponse, AuthRequest } from "../types";
+import {
+	LoginRequest,
+	RefreshTokenRequest,
+	AuthResponse,
+	AuthRequest,
+} from "../types";
 import { authenticateToken } from "../middleware/auth";
 
 const router = Router();
@@ -141,8 +146,17 @@ router.post("/refresh", (req: Request, res: Response): void => {
 
 		const newAccessToken = generateAccessToken(tokenPayload);
 
+		const refreshTokenPayload = {
+			...tokenPayload,
+			ipAddress,
+			deviceId,
+		};
+
+		const newRefreshToken = generateRefreshToken(refreshTokenPayload);
+
 		res.status(200).json({
 			accessToken: newAccessToken,
+			refreshToken: newRefreshToken,
 		});
 	} catch (error) {
 		console.error("Refresh token error:", error);
@@ -186,43 +200,47 @@ router.post("/logout", (req: Request, res: Response): void => {
  * Requires: Authorization header with valid access token
  * User can only access their own profile
  */
-router.get("/profile/:id", authenticateToken, (req: AuthRequest, res: Response): void => {
-	try {
-		const requestedUserId = parseInt(req.params.id);
+router.get(
+	"/profile/:id",
+	authenticateToken,
+	(req: AuthRequest, res: Response): void => {
+		try {
+			const requestedUserId = parseInt(req.params.id);
 
-		// Validate user ID parameter
-		if (isNaN(requestedUserId)) {
-			res.status(400).json({ error: "Invalid user ID" });
-			return;
-		}
+			// Validate user ID parameter
+			if (isNaN(requestedUserId)) {
+				res.status(400).json({ error: "Invalid user ID" });
+				return;
+			}
 
-		// Check if authenticated user matches requested profile
-		if (!req.user || req.user.userId !== requestedUserId) {
-			res.status(403).json({ 
-				error: "Forbidden: You can only access your own profile" 
+			// Check if authenticated user matches requested profile
+			if (!req.user || req.user.userId !== requestedUserId) {
+				res.status(403).json({
+					error: "Forbidden: You can only access your own profile",
+				});
+				return;
+			}
+
+			// Find user by ID
+			const user = findUserById(requestedUserId);
+
+			if (!user) {
+				res.status(404).json({ error: "User not found" });
+				return;
+			}
+
+			// Remove password from response
+			const { password, ...userWithoutPassword } = user;
+
+			res.status(200).json({
+				success: true,
+				data: userWithoutPassword,
 			});
-			return;
+		} catch (error) {
+			console.error("Get profile error:", error);
+			res.status(500).json({ error: "Internal server error" });
 		}
-
-		// Find user by ID
-		const user = findUserById(requestedUserId);
-
-		if (!user) {
-			res.status(404).json({ error: "User not found" });
-			return;
-		}
-
-		// Remove password from response
-		const { password, ...userWithoutPassword } = user;
-
-		res.status(200).json({
-			success: true,
-			data: userWithoutPassword,
-		});
-	} catch (error) {
-		console.error("Get profile error:", error);
-		res.status(500).json({ error: "Internal server error" });
 	}
-});
+);
 
 export default router;
