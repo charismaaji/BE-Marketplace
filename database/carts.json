@@ -8,8 +8,8 @@
 				"price": 32999.99,
 				"quantity": 3,
 				"total": 98999.97,
-				"discountPercentage": 13.39,
-				"discountedTotal": 85743.87,
+				"discountPercentage": 8.23,
+				"discountedTotal": 90852.27,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png"
 			},
 			{
@@ -18,8 +18,8 @@
 				"price": 1999.99,
 				"quantity": 2,
 				"total": 3999.98,
-				"discountPercentage": 18.52,
-				"discountedTotal": 3259.18,
+				"discountPercentage": 4.69,
+				"discountedTotal": 3812.38,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png"
 			},
 			{
@@ -28,8 +28,8 @@
 				"price": 24.99,
 				"quantity": 5,
 				"total": 124.94999999999999,
-				"discountPercentage": 6.28,
-				"discountedTotal": 117.1,
+				"discountPercentage": 15.18,
+				"discountedTotal": 105.98,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png"
 			},
 			{
@@ -38,8 +38,8 @@
 				"price": 129.99,
 				"quantity": 5,
 				"total": 649.95,
-				"discountPercentage": 12.84,
-				"discountedTotal": 566.5,
+				"discountPercentage": 15.54,
+				"discountedTotal": 548.95,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
 			}
 		],
@@ -58,8 +58,8 @@
 				"price": 44.99,
 				"quantity": 4,
 				"total": 179.96,
-				"discountPercentage": 11.47,
-				"discountedTotal": 159.32,
+				"discountPercentage": 9.64,
+				"discountedTotal": 162.61,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png"
 			},
 			{
@@ -68,8 +68,8 @@
 				"price": 899.99,
 				"quantity": 4,
 				"total": 3599.96,
-				"discountPercentage": 8.03,
-				"discountedTotal": 3310.88,
+				"discountPercentage": 19.59,
+				"discountedTotal": 2894.73,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
 			},
 			{
@@ -78,8 +78,8 @@
 				"price": 9.99,
 				"quantity": 4,
 				"total": 39.96,
-				"discountPercentage": 11.24,
-				"discountedTotal": 35.47,
+				"discountPercentage": 17.37,
+				"discountedTotal": 33.02,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png"
 			},
 			{
@@ -88,8 +88,8 @@
 				"price": 299.99,
 				"quantity": 3,
 				"total": 899.97,
-				"discountPercentage": 19.64,
-				"discountedTotal": 723.22,
+				"discountPercentage": 6.69,
+				"discountedTotal": 839.76,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png"
 			},
 			{
@@ -98,8 +98,8 @@
 				"price": 14.99,
 				"quantity": 5,
 				"total": 74.95,
-				"discountPercentage": 19.87,
-				"discountedTotal": 60.06,
+				"discountPercentage": 19.4,
+				"discountedTotal": 60.41,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png"
 			}
 		],
@@ -118,8 +118,8 @@
 				"price": 13999.99,
 				"quantity": 1,
 				"total": 13999.99,
-				"discountPercentage": 16.35,
-				"discountedTotal": 11710.99,
+				"discountPercentage": 5.05,
+				"discountedTotal": 13292.99,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png"
 			},
 			{
@@ -128,8 +128,8 @@
 				"price": 249.99,
 				"quantity": 5,
 				"total": 1249.95,
-				"discountPercentage": 16.54,
-				"discountedTotal": 1043.21,
+				"discountPercentage": 2.43,
+				"discountedTotal": 1219.58,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png"
 			},
 			{
@@ -138,8 +138,8 @@
 				"price": 6.99,
 				"quantity": 2,
 				"total": 13.98,
-				"discountPercentage": 16.04,
-				"discountedTotal": 11.74,
+				"discountPercentage": 14.76,
+				"discountedTotal": 11.92,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png"
 			},
 			{
@@ -148,8 +148,8 @@
 				"price": 5.99,
 				"quantity": 2,
 				"total": 11.98,
-				"discountPercentage": 8.25,
-				"discountedTotal": 10.99,
+				"discountPercentage": 0.63,
+				"discountedTotal": 11.9,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png"
 			},
 			{
@@ -158,8 +158,8 @@
 				"price": 499.99,
 				"quantity": 3,
 				"total": 1499.97,
-				"discountPercentage": 8.84,
-				"discountedTotal": 1367.37,
+				"discountPercentage": 19.45,
+				"discountedTotal": 1208.23,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png"
 			}
 		],
@@ -178,8 +178,8 @@
 				"price": 49.99,
 				"quantity": 5,
 				"total": 249.95000000000002,
-				"discountPercentage": 1.64,
-				"discountedTotal": 245.85,
+				"discountPercentage": 13.93,
+				"discountedTotal": 215.13,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png"
 			},
 			{
@@ -188,8 +188,8 @@
 				"price": 3.99,
 				"quantity": 5,
 				"total": 19.950000000000003,
-				"discountPercentage": 4.6,
-				"discountedTotal": 19.03,
+				"discountPercentage": 1.12,
+				"discountedTotal": 19.73,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png"
 			},
 			{
@@ -198,8 +198,8 @@
 				"price": 34.99,
 				"quantity": 5,
 				"total": 174.95000000000002,
-				"discountPercentage": 4.34,
-				"discountedTotal": 167.36,
+				"discountPercentage": 1.01,
+				"discountedTotal": 173.18,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Green%20and%20Black%20Glasses/thumbnail.png"
 			},
 			{
@@ -208,8 +208,8 @@
 				"price": 5.99,
 				"quantity": 2,
 				"total": 11.98,
-				"discountPercentage": 8.25,
-				"discountedTotal": 10.99,
+				"discountPercentage": 0.63,
+				"discountedTotal": 11.9,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png"
 			}
 		],
@@ -228,8 +228,8 @@
 				"price": 29.99,
 				"quantity": 2,
 				"total": 59.98,
-				"discountPercentage": 14.68,
-				"discountedTotal": 51.17,
+				"discountPercentage": 13.85,
+				"discountedTotal": 51.67,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png"
 			},
 			{
@@ -238,8 +238,8 @@
 				"price": 8.99,
 				"quantity": 5,
 				"total": 44.95,
-				"discountPercentage": 18.49,
-				"discountedTotal": 36.64,
+				"discountPercentage": 1.71,
+				"discountedTotal": 44.18,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png"
 			},
 			{
@@ -248,8 +248,8 @@
 				"price": 19.99,
 				"quantity": 2,
 				"total": 39.98,
-				"discountPercentage": 19.17,
-				"discountedTotal": 32.32,
+				"discountPercentage": 11.22,
+				"discountedTotal": 35.49,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Party%20Glasses/thumbnail.png"
 			},
 			{
@@ -258,8 +258,8 @@
 				"price": 89.99,
 				"quantity": 3,
 				"total": 269.96999999999997,
-				"discountPercentage": 10.79,
-				"discountedTotal": 240.84,
+				"discountPercentage": 14.72,
+				"discountedTotal": 230.23,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
 			},
 			{
@@ -268,8 +268,8 @@
 				"price": 1399.99,
 				"quantity": 5,
 				"total": 6999.95,
-				"discountPercentage": 9.99,
-				"discountedTotal": 6300.65,
+				"discountPercentage": 9.38,
+				"discountedTotal": 6343.35,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png"
 			},
 			{
@@ -278,8 +278,8 @@
 				"price": 5.49,
 				"quantity": 3,
 				"total": 16.47,
-				"discountPercentage": 10,
-				"discountedTotal": 14.82,
+				"discountPercentage": 8.69,
+				"discountedTotal": 15.04,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png"
 			}
 		],
@@ -298,8 +298,8 @@
 				"price": 49.99,
 				"quantity": 5,
 				"total": 249.95000000000002,
-				"discountPercentage": 8.08,
-				"discountedTotal": 229.75,
+				"discountPercentage": 17.88,
+				"discountedTotal": 205.26,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-bags/Blue%20Women's%20Handbag/thumbnail.png"
 			},
 			{
@@ -308,8 +308,8 @@
 				"price": 499.99,
 				"quantity": 3,
 				"total": 1499.97,
-				"discountPercentage": 15.69,
-				"discountedTotal": 1264.62,
+				"discountPercentage": 8.31,
+				"discountedTotal": 1375.32,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/TV%20Studio%20Camera%20Pedestal/thumbnail.png"
 			},
 			{
@@ -318,8 +318,8 @@
 				"price": 10999.99,
 				"quantity": 3,
 				"total": 32999.97,
-				"discountPercentage": 10.58,
-				"discountedTotal": 29508.57,
+				"discountPercentage": 3.73,
+				"discountedTotal": 31769.07,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png"
 			},
 			{
@@ -328,8 +328,8 @@
 				"price": 149.99,
 				"quantity": 3,
 				"total": 449.97,
-				"discountPercentage": 3.97,
-				"discountedTotal": 432.11,
+				"discountPercentage": 15.3,
+				"discountedTotal": 381.12,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png"
 			}
 		],
@@ -348,8 +348,8 @@
 				"price": 28999.99,
 				"quantity": 5,
 				"total": 144999.95,
-				"discountPercentage": 11.78,
-				"discountedTotal": 127918.96,
+				"discountPercentage": 3.98,
+				"discountedTotal": 139228.95,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/300%20Touring/thumbnail.png"
 			},
 			{
@@ -358,8 +358,8 @@
 				"price": 12.99,
 				"quantity": 4,
 				"total": 51.96,
-				"discountPercentage": 10.98,
-				"discountedTotal": 46.25,
+				"discountPercentage": 19.12,
+				"discountedTotal": 42.03,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png"
 			},
 			{
@@ -368,8 +368,8 @@
 				"price": 299.99,
 				"quantity": 2,
 				"total": 599.98,
-				"discountPercentage": 10.13,
-				"discountedTotal": 539.2,
+				"discountPercentage": 6.95,
+				"discountedTotal": 558.28,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png"
 			}
 		],
@@ -388,8 +388,8 @@
 				"price": 7499.99,
 				"quantity": 2,
 				"total": 14999.98,
-				"discountPercentage": 19.83,
-				"discountedTotal": 12025.48,
+				"discountPercentage": 11.58,
+				"discountedTotal": 13262.98,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/motorcycle/Sportbike%20Motorcycle/thumbnail.png"
 			},
 			{
@@ -398,8 +398,8 @@
 				"price": 8.99,
 				"quantity": 4,
 				"total": 35.96,
-				"discountPercentage": 1.15,
-				"discountedTotal": 35.55,
+				"discountPercentage": 9.58,
+				"discountedTotal": 32.52,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
 			},
 			{
@@ -408,8 +408,8 @@
 				"price": 99.99,
 				"quantity": 5,
 				"total": 499.95,
-				"discountPercentage": 7.14,
-				"discountedTotal": 464.25,
+				"discountPercentage": 17.17,
+				"discountedTotal": 414.11,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png"
 			},
 			{
@@ -418,8 +418,8 @@
 				"price": 49.99,
 				"quantity": 3,
 				"total": 149.97,
-				"discountPercentage": 5.67,
-				"discountedTotal": 141.47,
+				"discountPercentage": 1.89,
+				"discountedTotal": 147.14,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
 			}
 		],
@@ -438,8 +438,8 @@
 				"price": 89.99,
 				"quantity": 2,
 				"total": 179.98,
-				"discountPercentage": 12.59,
-				"discountedTotal": 157.32,
+				"discountPercentage": 16.26,
+				"discountedTotal": 150.72,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20Leather%20With%20Skirt/thumbnail.png"
 			},
 			{
@@ -448,8 +448,8 @@
 				"price": 15999.99,
 				"quantity": 4,
 				"total": 63999.96,
-				"discountPercentage": 3.26,
-				"discountedTotal": 61913.56,
+				"discountPercentage": 4.11,
+				"discountedTotal": 61369.56,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png"
 			},
 			{
@@ -458,8 +458,8 @@
 				"price": 49.99,
 				"quantity": 2,
 				"total": 99.98,
-				"discountPercentage": 13.74,
-				"discountedTotal": 86.24,
+				"discountPercentage": 7.09,
+				"discountedTotal": 92.89,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png"
 			},
 			{
@@ -468,8 +468,8 @@
 				"price": 249.99,
 				"quantity": 5,
 				"total": 1249.95,
-				"discountPercentage": 5.64,
-				"discountedTotal": 1179.45,
+				"discountPercentage": 10.17,
+				"discountedTotal": 1122.83,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
 			}
 		],
@@ -488,8 +488,8 @@
 				"price": 4999.99,
 				"quantity": 5,
 				"total": 24999.949999999997,
-				"discountPercentage": 12.34,
-				"discountedTotal": 21914.96,
+				"discountPercentage": 9.45,
+				"discountedTotal": 22637.45,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png"
 			},
 			{
@@ -498,8 +498,8 @@
 				"price": 1499.99,
 				"quantity": 3,
 				"total": 4499.97,
-				"discountPercentage": 16.44,
-				"discountedTotal": 3760.17,
+				"discountPercentage": 17.24,
+				"discountedTotal": 3724.18,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Longines%20Master%20Collection/thumbnail.png"
 			}
 		],
@@ -518,8 +518,8 @@
 				"price": 149.99,
 				"quantity": 1,
 				"total": 149.99,
-				"discountPercentage": 17.18,
-				"discountedTotal": 124.22,
+				"discountPercentage": 4.12,
+				"discountedTotal": 143.81,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/thumbnail.png"
 			},
 			{
@@ -528,8 +528,8 @@
 				"price": 3.49,
 				"quantity": 3,
 				"total": 10.47,
-				"discountPercentage": 9.36,
-				"discountedTotal": 9.49,
+				"discountPercentage": 13.74,
+				"discountedTotal": 9.03,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Milk/thumbnail.png"
 			},
 			{
@@ -538,8 +538,8 @@
 				"price": 4.99,
 				"quantity": 3,
 				"total": 14.97,
-				"discountPercentage": 2.78,
-				"discountedTotal": 14.55,
+				"discountPercentage": 1.53,
+				"discountedTotal": 14.74,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png"
 			},
 			{
@@ -548,8 +548,8 @@
 				"price": 29.99,
 				"quantity": 3,
 				"total": 89.97,
-				"discountPercentage": 17.87,
-				"discountedTotal": 73.89,
+				"discountPercentage": 16.93,
+				"discountedTotal": 74.74,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Wicket/thumbnail.png"
 			},
 			{
@@ -558,8 +558,8 @@
 				"price": 0.99,
 				"quantity": 3,
 				"total": 2.9699999999999998,
-				"discountPercentage": 18.69,
-				"discountedTotal": 2.41,
+				"discountPercentage": 1,
+				"discountedTotal": 2.94,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
 			},
 			{
@@ -568,8 +568,8 @@
 				"price": 299.99,
 				"quantity": 1,
 				"total": 299.99,
-				"discountPercentage": 15.93,
-				"discountedTotal": 252.2,
+				"discountPercentage": 18.29,
+				"discountedTotal": 245.12,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png"
 			}
 		],
@@ -588,8 +588,8 @@
 				"price": 7.99,
 				"quantity": 4,
 				"total": 31.96,
-				"discountPercentage": 18.8,
-				"discountedTotal": 25.95,
+				"discountPercentage": 18.91,
+				"discountedTotal": 25.92,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Kitchen%20Sieve/thumbnail.png"
 			},
 			{
@@ -598,8 +598,8 @@
 				"price": 179.99,
 				"quantity": 5,
 				"total": 899.95,
-				"discountPercentage": 14.21,
-				"discountedTotal": 772.07,
+				"discountPercentage": 19.02,
+				"discountedTotal": 728.78,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Marni%20Red%20&%20Black%20Suit/thumbnail.png"
 			}
 		],
@@ -618,8 +618,8 @@
 				"price": 34.99,
 				"quantity": 2,
 				"total": 69.98,
-				"discountPercentage": 3.7,
-				"discountedTotal": 67.39,
+				"discountPercentage": 19.5,
+				"discountedTotal": 56.33,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png"
 			},
 			{
@@ -628,8 +628,8 @@
 				"price": 19.99,
 				"quantity": 3,
 				"total": 59.97,
-				"discountPercentage": 12.95,
-				"discountedTotal": 52.2,
+				"discountPercentage": 8.58,
+				"discountedTotal": 54.82,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Monopod/thumbnail.png"
 			},
 			{
@@ -638,8 +638,8 @@
 				"price": 599.99,
 				"quantity": 1,
 				"total": 599.99,
-				"discountPercentage": 4.31,
-				"discountedTotal": 574.13,
+				"discountPercentage": 13.31,
+				"discountedTotal": 520.13,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/tablets/Samsung%20Galaxy%20Tab%20S8%20Plus%20Grey/thumbnail.png"
 			},
 			{
@@ -648,8 +648,8 @@
 				"price": 19.99,
 				"quantity": 3,
 				"total": 59.97,
-				"discountPercentage": 9.44,
-				"discountedTotal": 54.31,
+				"discountPercentage": 19.2,
+				"discountedTotal": 48.46,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/tops/Girl%20Summer%20Dress/thumbnail.png"
 			},
 			{
@@ -658,8 +658,8 @@
 				"price": 0.79,
 				"quantity": 4,
 				"total": 3.16,
-				"discountPercentage": 12.32,
-				"discountedTotal": 2.77,
+				"discountPercentage": 9.7,
+				"discountedTotal": 2.85,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Lemon/thumbnail.png"
 			}
 		],
@@ -678,8 +678,8 @@
 				"price": 109.99,
 				"quantity": 3,
 				"total": 329.96999999999997,
-				"discountPercentage": 17.73,
-				"discountedTotal": 271.47,
+				"discountPercentage": 0.04,
+				"discountedTotal": 329.84,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/thumbnail.png"
 			},
 			{
@@ -688,8 +688,8 @@
 				"price": 8.99,
 				"quantity": 5,
 				"total": 44.95,
-				"discountPercentage": 6.3,
-				"discountedTotal": 42.12,
+				"discountPercentage": 12.1,
+				"discountedTotal": 39.51,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/thumbnail.png"
 			},
 			{
@@ -698,8 +698,8 @@
 				"price": 11.99,
 				"quantity": 1,
 				"total": 11.99,
-				"discountPercentage": 8.45,
-				"discountedTotal": 10.98,
+				"discountPercentage": 9.75,
+				"discountedTotal": 10.82,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/thumbnail.png"
 			},
 			{
@@ -708,8 +708,8 @@
 				"price": 29.99,
 				"quantity": 5,
 				"total": 149.95,
-				"discountPercentage": 10.68,
-				"discountedTotal": 133.94,
+				"discountPercentage": 14.87,
+				"discountedTotal": 127.65,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
 			},
 			{
@@ -718,8 +718,8 @@
 				"price": 15.99,
 				"quantity": 3,
 				"total": 47.97,
-				"discountPercentage": 16.65,
-				"discountedTotal": 39.98,
+				"discountPercentage": 9.25,
+				"discountedTotal": 43.53,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/thumbnail.png"
 			},
 			{
@@ -728,8 +728,8 @@
 				"price": 1.99,
 				"quantity": 1,
 				"total": 1.99,
-				"discountPercentage": 11.74,
-				"discountedTotal": 1.76,
+				"discountPercentage": 12.62,
+				"discountedTotal": 1.74,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
 			}
 		],
@@ -748,8 +748,8 @@
 				"price": 1899.99,
 				"quantity": 5,
 				"total": 9499.95,
-				"discountPercentage": 8.09,
-				"discountedTotal": 8731.4,
+				"discountPercentage": 8.57,
+				"discountedTotal": 8685.8,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
 			},
 			{
@@ -758,8 +758,8 @@
 				"price": 699.99,
 				"quantity": 3,
 				"total": 2099.9700000000003,
-				"discountPercentage": 1.12,
-				"discountedTotal": 2076.45,
+				"discountPercentage": 5.59,
+				"discountedTotal": 1982.58,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png"
 			},
 			{
@@ -768,8 +768,8 @@
 				"price": 12.99,
 				"quantity": 3,
 				"total": 38.97,
-				"discountPercentage": 10.98,
-				"discountedTotal": 34.69,
+				"discountPercentage": 19.12,
+				"discountedTotal": 31.52,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Stick%20Monopod/thumbnail.png"
 			},
 			{
@@ -778,8 +778,8 @@
 				"price": 29.99,
 				"quantity": 3,
 				"total": 89.97,
-				"discountPercentage": 3.86,
-				"discountedTotal": 86.5,
+				"discountPercentage": 12.13,
+				"discountedTotal": 79.06,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/tops/Blue%20Frock/thumbnail.png"
 			},
 			{
@@ -788,8 +788,8 @@
 				"price": 2.49,
 				"quantity": 5,
 				"total": 12.450000000000001,
-				"discountPercentage": 4.34,
-				"discountedTotal": 11.91,
+				"discountPercentage": 15.22,
+				"discountedTotal": 10.56,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
 			}
 		],
@@ -808,8 +808,8 @@
 				"price": 9.99,
 				"quantity": 2,
 				"total": 19.98,
-				"discountPercentage": 13.37,
-				"discountedTotal": 17.31,
+				"discountPercentage": 13.7,
+				"discountedTotal": 17.24,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
 			},
 			{
@@ -818,8 +818,8 @@
 				"price": 49.99,
 				"quantity": 3,
 				"total": 149.97,
-				"discountPercentage": 9.13,
-				"discountedTotal": 136.28,
+				"discountPercentage": 19.61,
+				"discountedTotal": 120.56,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Racket/thumbnail.png"
 			},
 			{
@@ -828,8 +828,8 @@
 				"price": 2.29,
 				"quantity": 1,
 				"total": 2.29,
-				"discountPercentage": 1.69,
-				"discountedTotal": 2.25,
+				"discountPercentage": 5.38,
+				"discountedTotal": 2.17,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png"
 			}
 		],
@@ -848,8 +848,8 @@
 				"price": 9.99,
 				"quantity": 2,
 				"total": 19.98,
-				"discountPercentage": 0.63,
-				"discountedTotal": 19.85,
+				"discountPercentage": 10.48,
+				"discountedTotal": 17.89,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
 			},
 			{
@@ -858,8 +858,8 @@
 				"price": 10.99,
 				"quantity": 3,
 				"total": 32.97,
-				"discountPercentage": 16.62,
-				"discountedTotal": 27.49,
+				"discountPercentage": 3.56,
+				"discountedTotal": 31.8,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Grater%20Black/thumbnail.png"
 			},
 			{
@@ -868,8 +868,8 @@
 				"price": 4.99,
 				"quantity": 4,
 				"total": 19.96,
-				"discountPercentage": 2.78,
-				"discountedTotal": 19.41,
+				"discountPercentage": 1.53,
+				"discountedTotal": 19.65,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png"
 			},
 			{
@@ -878,8 +878,8 @@
 				"price": 29.99,
 				"quantity": 4,
 				"total": 119.96,
-				"discountPercentage": 10.68,
-				"discountedTotal": 107.15,
+				"discountPercentage": 14.87,
+				"discountedTotal": 102.12,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
 			}
 		],
@@ -898,8 +898,8 @@
 				"price": 299.99,
 				"quantity": 4,
 				"total": 1199.96,
-				"discountPercentage": 15.93,
-				"discountedTotal": 1008.81,
+				"discountPercentage": 18.29,
+				"discountedTotal": 980.49,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20K1/thumbnail.png"
 			},
 			{
@@ -908,8 +908,8 @@
 				"price": 14.99,
 				"quantity": 3,
 				"total": 44.97,
-				"discountPercentage": 7.66,
-				"discountedTotal": 41.53,
+				"discountPercentage": 4.23,
+				"discountedTotal": 43.07,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
 			},
 			{
@@ -918,8 +918,8 @@
 				"price": 4.99,
 				"quantity": 5,
 				"total": 24.950000000000003,
-				"discountPercentage": 12.62,
-				"discountedTotal": 21.8,
+				"discountPercentage": 9.33,
+				"discountedTotal": 22.62,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
 			},
 			{
@@ -928,8 +928,8 @@
 				"price": 29.99,
 				"quantity": 3,
 				"total": 89.97,
-				"discountPercentage": 1.11,
-				"discountedTotal": 88.97,
+				"discountPercentage": 4.94,
+				"discountedTotal": 85.53,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Black%20Sun%20Glasses/thumbnail.png"
 			},
 			{
@@ -938,8 +938,8 @@
 				"price": 29.99,
 				"quantity": 2,
 				"total": 59.98,
-				"discountPercentage": 10.68,
-				"discountedTotal": 53.57,
+				"discountPercentage": 14.87,
+				"discountedTotal": 51.06,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
 			},
 			{
@@ -948,8 +948,8 @@
 				"price": 8.99,
 				"quantity": 5,
 				"total": 44.95,
-				"discountPercentage": 3.76,
-				"discountedTotal": 43.26,
+				"discountPercentage": 11.44,
+				"discountedTotal": 39.81,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
 			}
 		],
@@ -968,8 +968,8 @@
 				"price": 49.99,
 				"quantity": 3,
 				"total": 149.97,
-				"discountPercentage": 1.64,
-				"discountedTotal": 147.51,
+				"discountPercentage": 13.93,
+				"discountedTotal": 129.08,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png"
 			},
 			{
@@ -978,8 +978,8 @@
 				"price": 11.99,
 				"quantity": 5,
 				"total": 59.95,
-				"discountPercentage": 16.05,
-				"discountedTotal": 50.33,
+				"discountPercentage": 12.25,
+				"discountedTotal": 52.61,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png"
 			},
 			{
@@ -988,8 +988,8 @@
 				"price": 7.99,
 				"quantity": 3,
 				"total": 23.97,
-				"discountPercentage": 8.31,
-				"discountedTotal": 21.98,
+				"discountPercentage": 1.59,
+				"discountedTotal": 23.59,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/thumbnail.png"
 			},
 			{
@@ -998,8 +998,8 @@
 				"price": 349.99,
 				"quantity": 2,
 				"total": 699.98,
-				"discountPercentage": 17.86,
-				"discountedTotal": 574.96,
+				"discountPercentage": 11.51,
+				"discountedTotal": 619.41,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20XT/thumbnail.png"
 			}
 		],
@@ -1018,8 +1018,8 @@
 				"price": 49.99,
 				"quantity": 1,
 				"total": 49.99,
-				"discountPercentage": 8.79,
-				"discountedTotal": 45.6,
+				"discountPercentage": 5.73,
+				"discountedTotal": 47.13,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/thumbnail.png"
 			},
 			{
@@ -1028,8 +1028,8 @@
 				"price": 799.99,
 				"quantity": 3,
 				"total": 2399.9700000000003,
-				"discountPercentage": 19.53,
-				"discountedTotal": 1931.26,
+				"discountPercentage": 18.34,
+				"discountedTotal": 1959.82,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/Watch%20Gold%20for%20Women/thumbnail.png"
 			},
 			{
@@ -1038,8 +1038,8 @@
 				"price": 129.99,
 				"quantity": 3,
 				"total": 389.97,
-				"discountPercentage": 12.84,
-				"discountedTotal": 339.9,
+				"discountPercentage": 15.54,
+				"discountedTotal": 329.37,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
 			},
 			{
@@ -1048,8 +1048,8 @@
 				"price": 89.99,
 				"quantity": 5,
 				"total": 449.95,
-				"discountPercentage": 14.7,
-				"discountedTotal": 383.81,
+				"discountPercentage": 4.2,
+				"discountedTotal": 431.05,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/thumbnail.png"
 			},
 			{
@@ -1058,8 +1058,8 @@
 				"price": 8.99,
 				"quantity": 5,
 				"total": 44.95,
-				"discountPercentage": 7.23,
-				"discountedTotal": 41.7,
+				"discountPercentage": 18.49,
+				"discountedTotal": 36.64,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/skin-care/Attitude%20Super%20Leaves%20Hand%20Soap/thumbnail.png"
 			},
 			{
@@ -1068,8 +1068,8 @@
 				"price": 39.99,
 				"quantity": 5,
 				"total": 199.95000000000002,
-				"discountPercentage": 2.82,
-				"discountedTotal": 194.31,
+				"discountPercentage": 12.95,
+				"discountedTotal": 174.06,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/tops/Tartan%20Dress/thumbnail.png"
 			}
 		],
@@ -1088,8 +1088,8 @@
 				"price": 5.99,
 				"quantity": 2,
 				"total": 11.98,
-				"discountPercentage": 13.16,
-				"discountedTotal": 10.4,
+				"discountPercentage": 12.48,
+				"discountedTotal": 10.48,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/thumbnail.png"
 			},
 			{
@@ -1098,8 +1098,8 @@
 				"price": 119.99,
 				"quantity": 2,
 				"total": 239.98,
-				"discountPercentage": 1.96,
-				"discountedTotal": 235.28,
+				"discountPercentage": 4.97,
+				"discountedTotal": 228.05,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20&%20Red/thumbnail.png"
 			}
 		],
@@ -1118,8 +1118,8 @@
 				"price": 19.99,
 				"quantity": 5,
 				"total": 99.94999999999999,
-				"discountPercentage": 8.74,
-				"discountedTotal": 91.21,
+				"discountPercentage": 12.09,
+				"discountedTotal": 87.87,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/thumbnail.png"
 			},
 			{
@@ -1128,8 +1128,8 @@
 				"price": 19.99,
 				"quantity": 2,
 				"total": 39.98,
-				"discountPercentage": 0.7,
-				"discountedTotal": 39.7,
+				"discountPercentage": 18.19,
+				"discountedTotal": 32.71,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
 			},
 			{
@@ -1138,8 +1138,8 @@
 				"price": 3.99,
 				"quantity": 2,
 				"total": 7.98,
-				"discountPercentage": 16,
-				"discountedTotal": 6.7,
+				"discountPercentage": 7.31,
+				"discountedTotal": 7.4,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/thumbnail.png"
 			},
 			{
@@ -1148,8 +1148,8 @@
 				"price": 24.99,
 				"quantity": 3,
 				"total": 74.97,
-				"discountPercentage": 9.27,
-				"discountedTotal": 68.02,
+				"discountPercentage": 4.94,
+				"discountedTotal": 71.27,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Classic%20Sun%20Glasses/thumbnail.png"
 			}
 		],
@@ -1168,8 +1168,8 @@
 				"price": 1499.99,
 				"quantity": 5,
 				"total": 7499.95,
-				"discountPercentage": 3.9,
-				"discountedTotal": 7207.45,
+				"discountPercentage": 11.89,
+				"discountedTotal": 6608.21,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/thumbnail.png"
 			},
 			{
@@ -1178,8 +1178,8 @@
 				"price": 49.99,
 				"quantity": 4,
 				"total": 199.96,
-				"discountPercentage": 8.08,
-				"discountedTotal": 183.8,
+				"discountPercentage": 17.88,
+				"discountedTotal": 164.21,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-bags/Blue%20Women's%20Handbag/thumbnail.png"
 			},
 			{
@@ -1188,8 +1188,8 @@
 				"price": 2.49,
 				"quantity": 2,
 				"total": 4.98,
-				"discountPercentage": 2.74,
-				"discountedTotal": 4.84,
+				"discountPercentage": 13.28,
+				"discountedTotal": 4.32,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/thumbnail.png"
 			},
 			{
@@ -1198,8 +1198,8 @@
 				"price": 1.99,
 				"quantity": 4,
 				"total": 7.96,
-				"discountPercentage": 8.95,
-				"discountedTotal": 7.25,
+				"discountPercentage": 9.9,
+				"discountedTotal": 7.17,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/thumbnail.png"
 			},
 			{
@@ -1208,8 +1208,8 @@
 				"price": 8.99,
 				"quantity": 5,
 				"total": 44.95,
-				"discountPercentage": 18.49,
-				"discountedTotal": 36.64,
+				"discountPercentage": 1.71,
+				"discountedTotal": 44.18,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png"
 			}
 		],
@@ -1228,8 +1228,8 @@
 				"price": 29.99,
 				"quantity": 5,
 				"total": 149.95,
-				"discountPercentage": 14.68,
-				"discountedTotal": 127.94,
+				"discountPercentage": 13.85,
+				"discountedTotal": 129.18,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png"
 			},
 			{
@@ -1238,8 +1238,8 @@
 				"price": 249.99,
 				"quantity": 4,
 				"total": 999.96,
-				"discountPercentage": 5.64,
-				"discountedTotal": 943.56,
+				"discountPercentage": 10.17,
+				"discountedTotal": 898.26,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
 			},
 			{
@@ -1248,8 +1248,8 @@
 				"price": 599.99,
 				"quantity": 1,
 				"total": 599.99,
-				"discountPercentage": 12.86,
-				"discountedTotal": 522.83,
+				"discountPercentage": 14.09,
+				"discountedTotal": 515.45,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/thumbnail.png"
 			}
 		],
@@ -1268,8 +1268,8 @@
 				"price": 12.99,
 				"quantity": 1,
 				"total": 12.99,
-				"discountPercentage": 14.69,
-				"discountedTotal": 11.08,
+				"discountPercentage": 12.16,
+				"discountedTotal": 11.41,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
 			},
 			{
@@ -1278,8 +1278,8 @@
 				"price": 399.99,
 				"quantity": 1,
 				"total": 399.99,
-				"discountPercentage": 14.38,
-				"discountedTotal": 342.47,
+				"discountPercentage": 18.64,
+				"discountedTotal": 325.43,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro+/thumbnail.png"
 			}
 		],
@@ -1298,8 +1298,8 @@
 				"price": 1.99,
 				"quantity": 5,
 				"total": 9.95,
-				"discountPercentage": 8.95,
-				"discountedTotal": 9.06,
+				"discountPercentage": 9.9,
+				"discountedTotal": 8.96,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/thumbnail.png"
 			},
 			{
@@ -1308,8 +1308,8 @@
 				"price": 149.99,
 				"quantity": 3,
 				"total": 449.97,
-				"discountPercentage": 3.97,
-				"discountedTotal": 432.11,
+				"discountPercentage": 15.3,
+				"discountedTotal": 381.12,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png"
 			}
 		],
@@ -1328,8 +1328,8 @@
 				"price": 4.99,
 				"quantity": 1,
 				"total": 4.99,
-				"discountPercentage": 2.75,
-				"discountedTotal": 4.85,
+				"discountPercentage": 12.87,
+				"discountedTotal": 4.35,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Mulberry/thumbnail.png"
 			},
 			{
@@ -1338,8 +1338,8 @@
 				"price": 14.99,
 				"quantity": 2,
 				"total": 29.98,
-				"discountPercentage": 19.87,
-				"discountedTotal": 24.02,
+				"discountPercentage": 19.4,
+				"discountedTotal": 24.16,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png"
 			},
 			{
@@ -1348,8 +1348,8 @@
 				"price": 1.99,
 				"quantity": 3,
 				"total": 5.97,
-				"discountPercentage": 11.74,
-				"discountedTotal": 5.27,
+				"discountPercentage": 12.62,
+				"discountedTotal": 5.22,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
 			},
 			{
@@ -1358,8 +1358,8 @@
 				"price": 29.99,
 				"quantity": 5,
 				"total": 149.95,
-				"discountPercentage": 8.76,
-				"discountedTotal": 136.81,
+				"discountPercentage": 15.35,
+				"discountedTotal": 126.93,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png"
 			}
 		],
@@ -1378,8 +1378,8 @@
 				"price": 9.99,
 				"quantity": 5,
 				"total": 49.95,
-				"discountPercentage": 0.63,
-				"discountedTotal": 49.64,
+				"discountPercentage": 10.48,
+				"discountedTotal": 44.72,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
 			},
 			{
@@ -1388,8 +1388,8 @@
 				"price": 39.99,
 				"quantity": 4,
 				"total": 159.96,
-				"discountPercentage": 14.7,
-				"discountedTotal": 136.45,
+				"discountPercentage": 7.74,
+				"discountedTotal": 147.58,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball%20Rim/thumbnail.png"
 			}
 		],
@@ -1408,8 +1408,8 @@
 				"price": 1399.99,
 				"quantity": 2,
 				"total": 2799.98,
-				"discountPercentage": 9.99,
-				"discountedTotal": 2520.26,
+				"discountPercentage": 9.38,
+				"discountedTotal": 2537.34,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png"
 			},
 			{
@@ -1418,8 +1418,8 @@
 				"price": 49.99,
 				"quantity": 4,
 				"total": 199.96,
-				"discountPercentage": 8.79,
-				"discountedTotal": 182.38,
+				"discountPercentage": 5.73,
+				"discountedTotal": 188.5,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Beats%20Flex%20Wireless%20Earphones/thumbnail.png"
 			},
 			{
@@ -1428,8 +1428,8 @@
 				"price": 1.29,
 				"quantity": 2,
 				"total": 2.58,
-				"discountPercentage": 1.2,
-				"discountedTotal": 2.55,
+				"discountPercentage": 0.16,
+				"discountedTotal": 2.58,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
 			},
 			{
@@ -1438,8 +1438,8 @@
 				"price": 199.99,
 				"quantity": 4,
 				"total": 799.96,
-				"discountPercentage": 8.38,
-				"discountedTotal": 732.92,
+				"discountPercentage": 12.91,
+				"discountedTotal": 696.69,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png"
 			},
 			{
@@ -1448,8 +1448,8 @@
 				"price": 11.99,
 				"quantity": 5,
 				"total": 59.95,
-				"discountPercentage": 16.05,
-				"discountedTotal": 50.33,
+				"discountPercentage": 12.25,
+				"discountedTotal": 52.61,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png"
 			}
 		],
@@ -1468,8 +1468,8 @@
 				"price": 179.99,
 				"quantity": 1,
 				"total": 179.99,
-				"discountPercentage": 14.21,
-				"discountedTotal": 154.41,
+				"discountPercentage": 19.02,
+				"discountedTotal": 145.76,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Marni%20Red%20&%20Black%20Suit/thumbnail.png"
 			},
 			{
@@ -1478,8 +1478,8 @@
 				"price": 31999.99,
 				"quantity": 4,
 				"total": 127999.96,
-				"discountPercentage": 7.4,
-				"discountedTotal": 118527.96,
+				"discountPercentage": 14.76,
+				"discountedTotal": 109107.17,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/Pacifica%20Touring/thumbnail.png"
 			},
 			{
@@ -1488,8 +1488,8 @@
 				"price": 2.29,
 				"quantity": 4,
 				"total": 9.16,
-				"discountPercentage": 1.69,
-				"discountedTotal": 9.01,
+				"discountPercentage": 5.38,
+				"discountedTotal": 8.67,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/thumbnail.png"
 			},
 			{
@@ -1498,8 +1498,8 @@
 				"price": 14.99,
 				"quantity": 4,
 				"total": 59.96,
-				"discountPercentage": 17.65,
-				"discountedTotal": 49.38,
+				"discountPercentage": 6.84,
+				"discountedTotal": 55.86,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/thumbnail.png"
 			}
 		],
@@ -1518,8 +1518,8 @@
 				"price": 2.49,
 				"quantity": 4,
 				"total": 9.96,
-				"discountPercentage": 2.74,
-				"discountedTotal": 9.69,
+				"discountPercentage": 13.28,
+				"discountedTotal": 8.64,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/thumbnail.png"
 			},
 			{
@@ -1528,8 +1528,8 @@
 				"price": 79.99,
 				"quantity": 3,
 				"total": 239.96999999999997,
-				"discountPercentage": 0.19,
-				"discountedTotal": 239.51,
+				"discountPercentage": 14.39,
+				"discountedTotal": 205.44,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
 			},
 			{
@@ -1538,8 +1538,8 @@
 				"price": 899.99,
 				"quantity": 3,
 				"total": 2699.9700000000003,
-				"discountPercentage": 8.03,
-				"discountedTotal": 2483.16,
+				"discountPercentage": 19.59,
+				"discountedTotal": 2171.05,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
 			},
 			{
@@ -1548,8 +1548,8 @@
 				"price": 599.99,
 				"quantity": 3,
 				"total": 1799.97,
-				"discountPercentage": 4.31,
-				"discountedTotal": 1722.39,
+				"discountPercentage": 13.31,
+				"discountedTotal": 1560.39,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/tablets/Samsung%20Galaxy%20Tab%20S8%20Plus%20Grey/thumbnail.png"
 			}
 		],
@@ -1568,8 +1568,8 @@
 				"price": 249.99,
 				"quantity": 2,
 				"total": 499.98,
-				"discountPercentage": 5.64,
-				"discountedTotal": 471.78,
+				"discountPercentage": 10.17,
+				"discountedTotal": 449.13,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
 			},
 			{
@@ -1578,8 +1578,8 @@
 				"price": 10999.99,
 				"quantity": 5,
 				"total": 54999.95,
-				"discountPercentage": 10.58,
-				"discountedTotal": 49180.96,
+				"discountPercentage": 3.73,
+				"discountedTotal": 52948.45,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png"
 			},
 			{
@@ -1588,8 +1588,8 @@
 				"price": 4999.99,
 				"quantity": 2,
 				"total": 9999.98,
-				"discountPercentage": 12.34,
-				"discountedTotal": 8765.98,
+				"discountPercentage": 9.45,
+				"discountedTotal": 9054.98,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png"
 			},
 			{
@@ -1598,8 +1598,8 @@
 				"price": 4.99,
 				"quantity": 4,
 				"total": 19.96,
-				"discountPercentage": 12.62,
-				"discountedTotal": 17.44,
+				"discountPercentage": 9.33,
+				"discountedTotal": 18.1,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
 			}
 		],
@@ -1618,8 +1618,8 @@
 				"price": 99.99,
 				"quantity": 2,
 				"total": 199.98,
-				"discountPercentage": 7.14,
-				"discountedTotal": 185.7,
+				"discountPercentage": 17.17,
+				"discountedTotal": 165.64,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20MagSafe%20Battery%20Pack/thumbnail.png"
 			},
 			{
@@ -1628,8 +1628,8 @@
 				"price": 5.99,
 				"quantity": 5,
 				"total": 29.950000000000003,
-				"discountPercentage": 17.01,
-				"discountedTotal": 24.86,
+				"discountPercentage": 15.65,
+				"discountedTotal": 25.26,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/thumbnail.png"
 			}
 		],
@@ -1648,8 +1648,8 @@
 				"price": 79.99,
 				"quantity": 5,
 				"total": 399.95,
-				"discountPercentage": 6.13,
-				"discountedTotal": 375.43,
+				"discountPercentage": 18.04,
+				"discountedTotal": 327.8,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/thumbnail.png"
 			},
 			{
@@ -1658,8 +1658,8 @@
 				"price": 89.99,
 				"quantity": 4,
 				"total": 359.96,
-				"discountPercentage": 8.72,
-				"discountedTotal": 328.57,
+				"discountPercentage": 5.99,
+				"discountedTotal": 338.4,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png"
 			},
 			{
@@ -1668,8 +1668,8 @@
 				"price": 6.99,
 				"quantity": 3,
 				"total": 20.97,
-				"discountPercentage": 16.04,
-				"discountedTotal": 17.61,
+				"discountPercentage": 14.76,
+				"discountedTotal": 17.87,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png"
 			},
 			{
@@ -1678,8 +1678,8 @@
 				"price": 9.99,
 				"quantity": 5,
 				"total": 49.95,
-				"discountPercentage": 10.02,
-				"discountedTotal": 44.95,
+				"discountPercentage": 3.5,
+				"discountedTotal": 48.2,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Fine%20Mesh%20Strainer/thumbnail.png"
 			}
 		],
@@ -1698,8 +1698,8 @@
 				"price": 19.99,
 				"quantity": 5,
 				"total": 99.94999999999999,
-				"discountPercentage": 11.73,
-				"discountedTotal": 88.23,
+				"discountPercentage": 18.52,
+				"discountedTotal": 81.44,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20iPhone%20Charger/thumbnail.png"
 			},
 			{
@@ -1708,8 +1708,8 @@
 				"price": 8.99,
 				"quantity": 2,
 				"total": 17.98,
-				"discountPercentage": 6.3,
-				"discountedTotal": 16.85,
+				"discountPercentage": 12.1,
+				"discountedTotal": 15.8,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Citrus%20Squeezer%20Yellow/thumbnail.png"
 			},
 			{
@@ -1718,8 +1718,8 @@
 				"price": 49.99,
 				"quantity": 1,
 				"total": 49.99,
-				"discountPercentage": 9.13,
-				"discountedTotal": 45.43,
+				"discountPercentage": 19.61,
+				"discountedTotal": 40.19,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Racket/thumbnail.png"
 			},
 			{
@@ -1728,8 +1728,8 @@
 				"price": 49.99,
 				"quantity": 5,
 				"total": 249.95000000000002,
-				"discountPercentage": 10.71,
-				"discountedTotal": 223.18,
+				"discountPercentage": 14.04,
+				"discountedTotal": 214.86,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Electric%20Stove/thumbnail.png"
 			}
 		],
@@ -1748,8 +1748,8 @@
 				"price": 0.99,
 				"quantity": 1,
 				"total": 0.99,
-				"discountPercentage": 18.69,
-				"discountedTotal": 0.8,
+				"discountPercentage": 1,
+				"discountedTotal": 0.98,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
 			},
 			{
@@ -1758,8 +1758,8 @@
 				"price": 24.99,
 				"quantity": 5,
 				"total": 124.94999999999999,
-				"discountPercentage": 3.23,
-				"discountedTotal": 120.91,
+				"discountPercentage": 13.45,
+				"discountedTotal": 108.14,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/tops/Short%20Frock/thumbnail.png"
 			},
 			{
@@ -1768,8 +1768,8 @@
 				"price": 349.99,
 				"quantity": 5,
 				"total": 1749.95,
-				"discountPercentage": 8.2,
-				"discountedTotal": 1606.45,
+				"discountPercentage": 12.02,
+				"discountedTotal": 1539.61,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Watch%20Series%204%20Gold/thumbnail.png"
 			}
 		],
@@ -1788,8 +1788,8 @@
 				"price": 31999.99,
 				"quantity": 5,
 				"total": 159999.95,
-				"discountPercentage": 7.4,
-				"discountedTotal": 148159.95,
+				"discountPercentage": 14.76,
+				"discountedTotal": 136383.96,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/Pacifica%20Touring/thumbnail.png"
 			},
 			{
@@ -1798,8 +1798,8 @@
 				"price": 39.99,
 				"quantity": 4,
 				"total": 159.96,
-				"discountPercentage": 17.64,
-				"discountedTotal": 131.74,
+				"discountPercentage": 5.7,
+				"discountedTotal": 150.84,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/thumbnail.png"
 			},
 			{
@@ -1808,8 +1808,8 @@
 				"price": 24.99,
 				"quantity": 4,
 				"total": 99.96,
-				"discountPercentage": 5.16,
-				"discountedTotal": 94.8,
+				"discountPercentage": 3,
+				"discountedTotal": 96.96,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/thumbnail.png"
 			},
 			{
@@ -1818,8 +1818,8 @@
 				"price": 29.99,
 				"quantity": 1,
 				"total": 29.99,
-				"discountPercentage": 0.23,
-				"discountedTotal": 29.92,
+				"discountPercentage": 15.24,
+				"discountedTotal": 25.42,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png"
 			}
 		],
@@ -1838,8 +1838,8 @@
 				"price": 29.99,
 				"quantity": 5,
 				"total": 149.95,
-				"discountPercentage": 10.68,
-				"discountedTotal": 133.94,
+				"discountPercentage": 14.87,
+				"discountedTotal": 127.65,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png"
 			},
 			{
@@ -1848,8 +1848,8 @@
 				"price": 24.99,
 				"quantity": 3,
 				"total": 74.97,
-				"discountPercentage": 5.16,
-				"discountedTotal": 71.1,
+				"discountPercentage": 3,
+				"discountedTotal": 72.72,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/thumbnail.png"
 			},
 			{
@@ -1858,8 +1858,8 @@
 				"price": 49.99,
 				"quantity": 4,
 				"total": 199.96,
-				"discountPercentage": 12.89,
-				"discountedTotal": 174.19,
+				"discountPercentage": 6.53,
+				"discountedTotal": 186.9,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/thumbnail.png"
 			},
 			{
@@ -1868,8 +1868,8 @@
 				"price": 24.99,
 				"quantity": 3,
 				"total": 74.97,
-				"discountPercentage": 12.13,
-				"discountedTotal": 65.88,
+				"discountPercentage": 2.9,
+				"discountedTotal": 72.8,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Glove/thumbnail.png"
 			},
 			{
@@ -1878,8 +1878,8 @@
 				"price": 29.99,
 				"quantity": 2,
 				"total": 59.98,
-				"discountPercentage": 18.43,
-				"discountedTotal": 48.93,
+				"discountPercentage": 19.51,
+				"discountedTotal": 48.28,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Metal%20Baseball%20Bat/thumbnail.png"
 			},
 			{
@@ -1888,8 +1888,8 @@
 				"price": 699.99,
 				"quantity": 4,
 				"total": 2799.96,
-				"discountPercentage": 1.12,
-				"discountedTotal": 2768.6,
+				"discountPercentage": 5.59,
+				"discountedTotal": 2643.44,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png"
 			}
 		],
@@ -1908,8 +1908,8 @@
 				"price": 79.99,
 				"quantity": 3,
 				"total": 239.96999999999997,
-				"discountPercentage": 9.94,
-				"discountedTotal": 216.12,
+				"discountPercentage": 15.06,
+				"discountedTotal": 203.83,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-dresses/Corset%20With%20Black%20Skirt/thumbnail.png"
 			},
 			{
@@ -1918,8 +1918,8 @@
 				"price": 1.99,
 				"quantity": 1,
 				"total": 1.99,
-				"discountPercentage": 5.99,
-				"discountedTotal": 1.87,
+				"discountPercentage": 17.48,
+				"discountedTotal": 1.64,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/thumbnail.png"
 			},
 			{
@@ -1928,8 +1928,8 @@
 				"price": 29.99,
 				"quantity": 1,
 				"total": 29.99,
-				"discountPercentage": 9.21,
-				"discountedTotal": 27.23,
+				"discountPercentage": 3.29,
+				"discountedTotal": 29,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Bat/thumbnail.png"
 			},
 			{
@@ -1938,8 +1938,8 @@
 				"price": 8.99,
 				"quantity": 4,
 				"total": 35.96,
-				"discountPercentage": 1.15,
-				"discountedTotal": 35.55,
+				"discountPercentage": 9.58,
+				"discountedTotal": 32.52,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
 			},
 			{
@@ -1948,8 +1948,8 @@
 				"price": 22.99,
 				"quantity": 3,
 				"total": 68.97,
-				"discountPercentage": 6.45,
-				"discountedTotal": 64.52,
+				"discountPercentage": 1.51,
+				"discountedTotal": 67.93,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Sunglasses/thumbnail.png"
 			},
 			{
@@ -1958,8 +1958,8 @@
 				"price": 10999.99,
 				"quantity": 4,
 				"total": 43999.96,
-				"discountPercentage": 10.58,
-				"discountedTotal": 39344.76,
+				"discountPercentage": 3.73,
+				"discountedTotal": 42358.76,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png"
 			}
 		],
@@ -1978,8 +1978,8 @@
 				"price": 8.99,
 				"quantity": 1,
 				"total": 8.99,
-				"discountPercentage": 18.49,
-				"discountedTotal": 7.33,
+				"discountPercentage": 1.71,
+				"discountedTotal": 8.84,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png"
 			},
 			{
@@ -1988,8 +1988,8 @@
 				"price": 39.99,
 				"quantity": 2,
 				"total": 79.98,
-				"discountPercentage": 12.67,
-				"discountedTotal": 69.85,
+				"discountPercentage": 7.26,
+				"discountedTotal": 74.17,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Boxed%20Blender/thumbnail.png"
 			},
 			{
@@ -1998,8 +1998,8 @@
 				"price": 549.99,
 				"quantity": 4,
 				"total": 2199.96,
-				"discountPercentage": 11.41,
-				"discountedTotal": 1948.94,
+				"discountPercentage": 13.67,
+				"discountedTotal": 1899.23,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20AirPods%20Max%20Silver/thumbnail.png"
 			},
 			{
@@ -2008,8 +2008,8 @@
 				"price": 11.99,
 				"quantity": 3,
 				"total": 35.97,
-				"discountPercentage": 16.05,
-				"discountedTotal": 30.2,
+				"discountPercentage": 12.25,
+				"discountedTotal": 31.56,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Volleyball/thumbnail.png"
 			},
 			{
@@ -2018,8 +2018,8 @@
 				"price": 34.99,
 				"quantity": 5,
 				"total": 174.95000000000002,
-				"discountPercentage": 8.67,
-				"discountedTotal": 159.78,
+				"discountPercentage": 14.28,
+				"discountedTotal": 149.97,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/tops/Gray%20Dress/thumbnail.png"
 			},
 			{
@@ -2028,8 +2028,8 @@
 				"price": 31999.99,
 				"quantity": 3,
 				"total": 95999.97,
-				"discountPercentage": 7.4,
-				"discountedTotal": 88895.97,
+				"discountPercentage": 14.76,
+				"discountedTotal": 81830.37,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/Pacifica%20Touring/thumbnail.png"
 			}
 		],
@@ -2048,8 +2048,8 @@
 				"price": 1.29,
 				"quantity": 4,
 				"total": 5.16,
-				"discountPercentage": 1.2,
-				"discountedTotal": 5.1,
+				"discountPercentage": 0.16,
+				"discountedTotal": 5.15,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
 			},
 			{
@@ -2058,8 +2058,8 @@
 				"price": 9.99,
 				"quantity": 1,
 				"total": 9.99,
-				"discountPercentage": 18.21,
-				"discountedTotal": 8.17,
+				"discountPercentage": 10.24,
+				"discountedTotal": 8.97,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/thumbnail.png"
 			},
 			{
@@ -2068,8 +2068,8 @@
 				"price": 6.99,
 				"quantity": 4,
 				"total": 27.96,
-				"discountPercentage": 9.43,
-				"discountedTotal": 25.32,
+				"discountPercentage": 11.76,
+				"discountedTotal": 24.67,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Tennis%20Ball/thumbnail.png"
 			},
 			{
@@ -2078,8 +2078,8 @@
 				"price": 0.99,
 				"quantity": 1,
 				"total": 0.99,
-				"discountPercentage": 3.2,
-				"discountedTotal": 0.96,
+				"discountPercentage": 14.92,
+				"discountedTotal": 0.84,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Water/thumbnail.png"
 			},
 			{
@@ -2088,8 +2088,8 @@
 				"price": 79.99,
 				"quantity": 5,
 				"total": 399.95,
-				"discountPercentage": 0.19,
-				"discountedTotal": 399.19,
+				"discountPercentage": 14.39,
+				"discountedTotal": 342.4,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
 			},
 			{
@@ -2098,8 +2098,8 @@
 				"price": 99.99,
 				"quantity": 5,
 				"total": 499.95,
-				"discountPercentage": 11.85,
-				"discountedTotal": 440.71,
+				"discountPercentage": 18.1,
+				"discountedTotal": 409.46,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20HomePod%20Mini%20Cosmic%20Grey/thumbnail.png"
 			}
 		],
@@ -2118,8 +2118,8 @@
 				"price": 3999.99,
 				"quantity": 3,
 				"total": 11999.97,
-				"discountPercentage": 16.57,
-				"discountedTotal": 10011.57,
+				"discountPercentage": 12.1,
+				"discountedTotal": 10547.97,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/motorcycle/Generic%20Motorcycle/thumbnail.png"
 			},
 			{
@@ -2128,8 +2128,8 @@
 				"price": 14.99,
 				"quantity": 4,
 				"total": 59.96,
-				"discountPercentage": 13,
-				"discountedTotal": 52.17,
+				"discountPercentage": 18.86,
+				"discountedTotal": 48.65,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Knife/thumbnail.png"
 			}
 		],
@@ -2148,8 +2148,8 @@
 				"price": 29.99,
 				"quantity": 1,
 				"total": 29.99,
-				"discountPercentage": 0.23,
-				"discountedTotal": 29.92,
+				"discountPercentage": 15.24,
+				"discountedTotal": 25.42,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Crystal%20Earring/thumbnail.png"
 			},
 			{
@@ -2158,8 +2158,8 @@
 				"price": 49.99,
 				"quantity": 3,
 				"total": 149.97,
-				"discountPercentage": 12.89,
-				"discountedTotal": 130.64,
+				"discountPercentage": 6.53,
+				"discountedTotal": 140.18,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Iron%20Golf/thumbnail.png"
 			}
 		],
@@ -2178,8 +2178,8 @@
 				"price": 89.99,
 				"quantity": 3,
 				"total": 269.96999999999997,
-				"discountPercentage": 8.72,
-				"discountedTotal": 246.43,
+				"discountPercentage": 5.99,
+				"discountedTotal": 253.8,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png"
 			},
 			{
@@ -2188,8 +2188,8 @@
 				"price": 12.99,
 				"quantity": 2,
 				"total": 25.98,
-				"discountPercentage": 14.69,
-				"discountedTotal": 22.16,
+				"discountPercentage": 12.16,
+				"discountedTotal": 22.82,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
 			},
 			{
@@ -2198,8 +2198,8 @@
 				"price": 14.99,
 				"quantity": 5,
 				"total": 74.95,
-				"discountPercentage": 15.7,
-				"discountedTotal": 63.18,
+				"discountPercentage": 7.44,
+				"discountedTotal": 69.37,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Basketball/thumbnail.png"
 			},
 			{
@@ -2208,8 +2208,8 @@
 				"price": 29.99,
 				"quantity": 3,
 				"total": 89.97,
-				"discountPercentage": 8.76,
-				"discountedTotal": 82.09,
+				"discountPercentage": 15.35,
+				"discountedTotal": 76.16,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png"
 			}
 		],
@@ -2228,8 +2228,8 @@
 				"price": 9.99,
 				"quantity": 2,
 				"total": 19.98,
-				"discountPercentage": 18.21,
-				"discountedTotal": 16.34,
+				"discountPercentage": 10.24,
+				"discountedTotal": 17.93,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Whisk/thumbnail.png"
 			},
 			{
@@ -2238,8 +2238,8 @@
 				"price": 3.99,
 				"quantity": 4,
 				"total": 15.96,
-				"discountPercentage": 18.86,
-				"discountedTotal": 12.95,
+				"discountPercentage": 12.06,
+				"discountedTotal": 14.04,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png"
 			},
 			{
@@ -2248,8 +2248,8 @@
 				"price": 44.99,
 				"quantity": 5,
 				"total": 224.95000000000002,
-				"discountPercentage": 11.47,
-				"discountedTotal": 199.15,
+				"discountPercentage": 9.64,
+				"discountedTotal": 203.26,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png"
 			}
 		],
@@ -2268,8 +2268,8 @@
 				"price": 1799.99,
 				"quantity": 2,
 				"total": 3599.98,
-				"discountPercentage": 17.2,
-				"discountedTotal": 2980.78,
+				"discountPercentage": 11.14,
+				"discountedTotal": 3198.94,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png"
 			},
 			{
@@ -2278,8 +2278,8 @@
 				"price": 3.99,
 				"quantity": 1,
 				"total": 3.99,
-				"discountPercentage": 16,
-				"discountedTotal": 3.35,
+				"discountPercentage": 7.31,
+				"discountedTotal": 3.7,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/thumbnail.png"
 			}
 		],
@@ -2298,8 +2298,8 @@
 				"price": 109.99,
 				"quantity": 1,
 				"total": 109.99,
-				"discountPercentage": 17.73,
-				"discountedTotal": 90.49,
+				"discountPercentage": 0.04,
+				"discountedTotal": 109.95,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shoes/Sports%20Sneakers%20Off%20White%20Red/thumbnail.png"
 			},
 			{
@@ -2308,8 +2308,8 @@
 				"price": 89.99,
 				"quantity": 3,
 				"total": 269.96999999999997,
-				"discountPercentage": 8.72,
-				"discountedTotal": 246.43,
+				"discountPercentage": 5.99,
+				"discountedTotal": 253.8,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Brown%20Leather%20Belt%20Watch/thumbnail.png"
 			},
 			{
@@ -2318,8 +2318,8 @@
 				"price": 5.99,
 				"quantity": 4,
 				"total": 23.96,
-				"discountPercentage": 12.55,
-				"discountedTotal": 20.95,
+				"discountPercentage": 9.29,
+				"discountedTotal": 21.73,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Rice/thumbnail.png"
 			},
 			{
@@ -2328,8 +2328,8 @@
 				"price": 4.99,
 				"quantity": 3,
 				"total": 14.97,
-				"discountPercentage": 2.75,
-				"discountedTotal": 14.56,
+				"discountPercentage": 12.87,
+				"discountedTotal": 13.04,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Mulberry/thumbnail.png"
 			},
 			{
@@ -2338,8 +2338,8 @@
 				"price": 12.99,
 				"quantity": 3,
 				"total": 38.97,
-				"discountPercentage": 11.04,
-				"discountedTotal": 34.67,
+				"discountPercentage": 8.03,
+				"discountedTotal": 35.84,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Chopping%20Board/thumbnail.png"
 			}
 		],
@@ -2358,8 +2358,8 @@
 				"price": 3.99,
 				"quantity": 2,
 				"total": 7.98,
-				"discountPercentage": 4.6,
-				"discountedTotal": 7.61,
+				"discountPercentage": 1.12,
+				"discountedTotal": 7.89,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png"
 			},
 			{
@@ -2368,8 +2368,8 @@
 				"price": 4999.99,
 				"quantity": 2,
 				"total": 9999.98,
-				"discountPercentage": 12.34,
-				"discountedTotal": 8765.98,
+				"discountPercentage": 9.45,
+				"discountedTotal": 9054.98,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/womens-watches/IWC%20Ingenieur%20Automatic%20Steel/thumbnail.png"
 			}
 		],
@@ -2388,8 +2388,8 @@
 				"price": 799.99,
 				"quantity": 4,
 				"total": 3199.96,
-				"discountPercentage": 17.11,
-				"discountedTotal": 2652.45,
+				"discountPercentage": 8.8,
+				"discountedTotal": 2918.36,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png"
 			},
 			{
@@ -2398,8 +2398,8 @@
 				"price": 11.99,
 				"quantity": 3,
 				"total": 35.97,
-				"discountPercentage": 8.45,
-				"discountedTotal": 32.93,
+				"discountPercentage": 9.75,
+				"discountedTotal": 32.46,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/thumbnail.png"
 			},
 			{
@@ -2408,8 +2408,8 @@
 				"price": 1.99,
 				"quantity": 3,
 				"total": 5.97,
-				"discountPercentage": 5.99,
-				"discountedTotal": 5.61,
+				"discountPercentage": 17.48,
+				"discountedTotal": 4.93,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/thumbnail.png"
 			},
 			{
@@ -2418,8 +2418,8 @@
 				"price": 22.99,
 				"quantity": 5,
 				"total": 114.94999999999999,
-				"discountPercentage": 6.45,
-				"discountedTotal": 107.54,
+				"discountPercentage": 1.51,
+				"discountedTotal": 113.21,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Sunglasses/thumbnail.png"
 			},
 			{
@@ -2428,8 +2428,8 @@
 				"price": 14.99,
 				"quantity": 4,
 				"total": 59.96,
-				"discountPercentage": 19.87,
-				"discountedTotal": 48.05,
+				"discountPercentage": 19.4,
+				"discountedTotal": 48.33,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png"
 			},
 			{
@@ -2438,8 +2438,8 @@
 				"price": 899.99,
 				"quantity": 4,
 				"total": 3599.96,
-				"discountPercentage": 8.03,
-				"discountedTotal": 3310.88,
+				"discountPercentage": 19.59,
+				"discountedTotal": 2894.73,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
 			}
 		],
@@ -2458,8 +2458,8 @@
 				"price": 1.29,
 				"quantity": 1,
 				"total": 1.29,
-				"discountPercentage": 1.2,
-				"discountedTotal": 1.27,
+				"discountPercentage": 0.16,
+				"discountedTotal": 1.29,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
 			},
 			{
@@ -2468,8 +2468,8 @@
 				"price": 34.99,
 				"quantity": 1,
 				"total": 34.99,
-				"discountPercentage": 3.7,
-				"discountedTotal": 33.7,
+				"discountPercentage": 19.5,
+				"discountedTotal": 28.17,
 				"thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png"
 			}
 		],
