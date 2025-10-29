@@ -137,6 +137,8 @@ router.post("/refresh", (req: Request, res: Response): void => {
 			return;
 		}
 
+		tokenStore.deleteToken(refreshToken);
+
 		// Generate new access token
 		const tokenPayload = {
 			userId: payload.userId,
@@ -153,6 +155,16 @@ router.post("/refresh", (req: Request, res: Response): void => {
 		};
 
 		const newRefreshToken = generateRefreshToken(refreshTokenPayload);
+
+		const expiresAt = new Date();
+		expiresAt.setDate(expiresAt.getDate() + 7); // 7 days
+		tokenStore.addToken(
+			newRefreshToken,
+			payload.userId,
+			ipAddress,
+			deviceId,
+			expiresAt
+		);
 
 		res.status(200).json({
 			accessToken: newAccessToken,
