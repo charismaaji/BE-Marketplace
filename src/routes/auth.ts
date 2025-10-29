@@ -207,34 +207,25 @@ router.post("/logout", (req: Request, res: Response): void => {
 });
 
 /**
- * GET /api/auth/profile/:id
- * Get user profile by ID
+ * GET /api/auth/me
+ * Get current authenticated user's profile
  * Requires: Authorization header with valid access token
- * User can only access their own profile
  */
 router.get(
-	"/profile/:id",
+	"/me",
 	authenticateToken,
 	(req: AuthRequest, res: Response): void => {
 		try {
-			const requestedUserId = parseInt(req.params.id);
-
-			// Validate user ID parameter
-			if (isNaN(requestedUserId)) {
-				res.status(400).json({ error: "Invalid user ID" });
+			// Get user ID from token
+			if (!req.user) {
+				res.status(401).json({ error: "Unauthorized" });
 				return;
 			}
 
-			// Check if authenticated user matches requested profile
-			if (!req.user || req.user.userId !== requestedUserId) {
-				res.status(403).json({
-					error: "Forbidden: You can only access your own profile",
-				});
-				return;
-			}
+			const userId = req.user.userId;
 
 			// Find user by ID
-			const user = findUserById(requestedUserId);
+			const user = findUserById(userId);
 
 			if (!user) {
 				res.status(404).json({ error: "User not found" });
