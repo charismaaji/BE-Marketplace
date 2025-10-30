@@ -193,13 +193,12 @@ router.post("/logout", (req: Request, res: Response): void => {
 		// Delete refresh token from store
 		const deleted = tokenStore.deleteToken(refreshToken);
 
-		if (deleted) {
-			res.status(200).json({ message: "Logged out successfully" });
-		} else {
-			res
-				.status(404)
-				.json({ message: "Token not found, but considered logged out" });
-		}
+		// Always return success for logout, whether token was found or not
+		// This handles cases where token was already rotated or expired
+		res.status(200).json({ 
+			message: "Logged out successfully",
+			tokenFound: deleted 
+		});
 	} catch (error) {
 		console.error("Logout error:", error);
 		res.status(500).json({ error: "Internal server error" });
