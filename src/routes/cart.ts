@@ -5,6 +5,7 @@ import {
 	findCartByUserId,
 	addProductToCart,
 	updateCartProductQuantity,
+	removeProductFromCart,
 	createCart,
 } from "../utils/cartDatabase";
 import { authenticateToken } from "../middleware/auth";
@@ -157,6 +158,49 @@ router.patch("/", (req: AuthRequest, res: Response): void => {
 		});
 	} catch (error: any) {
 		console.error("Update cart error:", error);
+		if (error.message === "Cart not found") {
+			res.status(404).json({ error: "Cart not found" });
+		} else if (error.message === "Product not found in cart") {
+			res.status(404).json({ error: "Product not found in cart" });
+		} else {
+			res.status(500).json({ error: "Internal server error" });
+		}
+	}
+});
+
+/**
+ * DELETE /api/cart/:productId
+ * Remove product from cart
+ * Requires: Authorization header with valid access token
+ * Params: productId (number)
+ */
+router.delete("/:productId", (req: AuthRequest, res: Response): void => {
+	try {
+		if (!req.user) {
+			res.status(401).json({ error: "Unauthorized" });
+			return;
+		}
+
+		const productId = parseInt(req.params.productId);
+
+		// Validate productId
+		if (isNaN(productId)) {
+			res.status(400).json({ error: "Invalid product ID" });
+			return;
+		}
+
+		const userId = req.user.userId;
+
+		// Remove product from cart
+		const cart = removeProductFromCart(userId, productId);
+
+		res.status(200).json({
+			success: true,
+			message: "Product removed from cart successfully",
+			data: cart,
+		});
+	} catch (error: any) {
+		console.error("Remove from cart error:", error);
 		if (error.message === "Cart not found") {
 			res.status(404).json({ error: "Cart not found" });
 		} else if (error.message === "Product not found in cart") {

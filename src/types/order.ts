@@ -35,6 +35,7 @@ export interface CreateOrderRequest {
 	}[];
 	paymentMethod: PaymentMethod;
 	status?: "paid" | "not paid";
+	isFromCart?: boolean;
 }
 
 export interface OrderListQuery {

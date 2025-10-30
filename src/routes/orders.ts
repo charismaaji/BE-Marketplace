@@ -2,6 +2,7 @@ import { Router, Response } from "express";
 import { AuthRequest } from "../types";
 import { CreateOrderRequest, OrderListQuery } from "../types/order";
 import { createOrder, getUserOrders } from "../utils/orderDatabase";
+import { clearCart } from "../utils/cartDatabase";
 import { authenticateToken } from "../middleware/auth";
 
 const router = Router();
@@ -15,7 +16,8 @@ router.use(authenticateToken);
  * Requires: Authorization header with valid access token
  * Body: { 
  *   products: [{ productId: number, quantity: number }],
- *   paymentMethod: { paymentType: "card" | "virtual account", provider: string }
+ *   paymentMethod: { paymentType: "card" | "virtual account", provider: string },
+ *   isFromCart?: boolean (if true, clears all items from user's cart after order creation)
  * }
  */
 router.post("/", (req: AuthRequest, res: Response): void => {
@@ -109,6 +111,14 @@ router.post("/", (req: AuthRequest, res: Response): void => {
 			return;
 		}
 
+		// Validate isFromCart field if present
+		if (orderRequest.isFromCart !== undefined && typeof orderRequest.isFromCart !== "boolean") {
+			res.status(400).json({
+				error: "isFromCart must be a boolean",
+			});
+			return;
+		}
+
 		const userId = req.user.userId;
 
 		// Create order with default "not paid" status
@@ -116,6 +126,19 @@ router.post("/", (req: AuthRequest, res: Response): void => {
 			...orderRequest,
 			status: "not paid"
 		});
+
+		// Clear cart if order was created from cart
+		if (orderRequest.isFromCart === true) {
+			try {
+				clearCart(userId);
+			} catch (error: any) {
+				// If cart doesn't exist, it's not a critical error
+				// Order is already created, so we just log it
+				if (error.message !== "Cart not found") {
+					console.error("Failed to clear cart after order creation:", error);
+				}
+			}
+		}
 
 		res.status(201).json({
 			success: true,

@@ -73,16 +73,6 @@
 				"thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp"
 			},
 			{
-				"id": 148,
-				"title": "Golf Ball",
-				"price": 9.99,
-				"quantity": 4,
-				"total": 39.96,
-				"discountPercentage": 17.37,
-				"discountedTotal": 33.018948,
-				"thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/thumbnail.webp"
-			},
-			{
 				"id": 122,
 				"title": "iPhone 6",
 				"price": 299.99,
@@ -103,11 +93,11 @@
 				"thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp"
 			}
 		],
-		"total": 4794.8,
-		"discountedTotal": 3990.530347,
+		"total": 4754.84,
+		"discountedTotal": 3957.511399,
 		"userId": 1,
-		"totalProducts": 5,
-		"totalQuantity": 20
+		"totalProducts": 4,
+		"totalQuantity": 16
 	},
 	{
 		"id": 3,

@@ -179,5 +179,47 @@ export const updateCartProductQuantity = (
 	return cart;
 };
 
+export const removeProductFromCart = (
+	userId: number,
+	productId: number
+): Cart => {
+	const cart = findCartByUserId(userId);
+	if (!cart) {
+		throw new Error("Cart not found");
+	}
+
+	const productIndex = cart.products.findIndex((p) => p.id === productId);
+	if (productIndex === -1) {
+		throw new Error("Product not found in cart");
+	}
+
+	// Remove product from cart
+	cart.products.splice(productIndex, 1);
+
+	// Recalculate cart totals
+	recalculateCartTotals(cart);
+	saveCarts();
+
+	return cart;
+};
+
+export const clearCart = (userId: number): Cart => {
+	const cart = findCartByUserId(userId);
+	if (!cart) {
+		throw new Error("Cart not found");
+	}
+
+	// Clear all products
+	cart.products = [];
+	cart.total = 0;
+	cart.discountedTotal = 0;
+	cart.totalProducts = 0;
+	cart.totalQuantity = 0;
+
+	saveCarts();
+
+	return cart;
+};
+
 // Initialize carts on module load
 loadCarts();
