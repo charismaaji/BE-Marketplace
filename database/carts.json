@@ -76,10 +76,10 @@
 				"id": 122,
 				"title": "iPhone 6",
 				"price": 299.99,
-				"quantity": 3,
-				"total": 899.97,
+				"quantity": 4,
+				"total": 1199.96,
 				"discountPercentage": 6.69,
-				"discountedTotal": 839.762007,
+				"discountedTotal": 1119.6826760000001,
 				"thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp"
 			},
 			{
@@ -93,11 +93,11 @@
 				"thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/selfie-lamp-with-iphone/thumbnail.webp"
 			}
 		],
-		"total": 4754.84,
-		"discountedTotal": 3957.511399,
+		"total": 5054.83,
+		"discountedTotal": 4237.432068,
 		"userId": 1,
 		"totalProducts": 4,
-		"totalQuantity": 16
+		"totalQuantity": 17
 	},
 	{
 		"id": 3,

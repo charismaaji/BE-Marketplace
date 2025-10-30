@@ -88,7 +88,9 @@ export const addProductToCart = (
 	}
 
 	// Check if product already exists in cart
-	const existingProductIndex = cart.products.findIndex((p) => p.id === productId);
+	const existingProductIndex = cart.products.findIndex(
+		(p) => p.id === productId
+	);
 
 	if (existingProductIndex !== -1) {
 		// Update quantity of existing product
@@ -154,7 +156,7 @@ export const updateCartProductQuantity = (
 		// Remove product from cart
 		cart.products.splice(productIndex, 1);
 	} else {
-		product.quantity += quantityChange;
+		product.quantity = quantityChange;
 
 		// If quantity becomes 0 or negative, remove the product
 		if (product.quantity <= 0) {
